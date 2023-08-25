@@ -1,0 +1,13 @@
+body{
+    align-items: center;
+}
+
+.my{
+    text-align: center;
+    justify-content:center;
+}
+
+#list{
+    justify-content: space-around;
+    text-decoration: none;
+}
